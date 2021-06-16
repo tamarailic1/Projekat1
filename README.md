@@ -1,2 +1,2 @@
 # operativni_sistemi
-Djordje Molnar
+Tamara Ilic
